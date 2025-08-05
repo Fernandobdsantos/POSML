@@ -8,7 +8,7 @@ y = 8
 print(x < y)
 
 print(x)
-print(y)
+
 print("hoje")
 
 contador = 10
