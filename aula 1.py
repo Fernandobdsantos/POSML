@@ -9,6 +9,8 @@ print(x < y)
 
 print(x)
 
+print("hoje")
+
 contador = 10
 print(contador)
 
